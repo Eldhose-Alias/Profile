@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#a1{
+    height: 224px;
+}
+#q1{
+    margin-left: 68px;
+}
+#q2{
+    margin-left: 928px;
+    margin-top: -314px;
+}
+#a2{
+    height: 224px;
+}
